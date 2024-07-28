@@ -12,6 +12,7 @@ module.exports = {
       ],
       'no-multiple-empty-lines': 'error',
       'no-unused-vars': 'error',
+      'react/react-in-tsx-scope': 'off',
       'eqeqeq': 'error'
     }
   }
